@@ -1,0 +1,10 @@
+	Brownian motion or pedesis is the random motion of particles suspended
+in afluid (a liquid or a gas) resulting from their collision with the fast
+moving molecules in the fluid.
+	This pattern of motion typically alternates random fluctuations in a
+particle's position inside a fluid sub-domain with a relocation to another
+sub-domain. Each relocation is followed by more fluctuations within the new
+closed volume. This pattern describes a fluid at thermal equilibrium, defined
+by a given temperature.
+
+source: https://en.wikipedia.org/wiki/Brownian_motion
